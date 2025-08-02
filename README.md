@@ -1,0 +1,1 @@
+# SVT-text-detection-and-recognition-IITG-internship-assignment-02
